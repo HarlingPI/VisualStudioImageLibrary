@@ -1,0 +1,3 @@
+# VisualStudioImageLibrary
+
+VisualStudio2012~2022图标集
