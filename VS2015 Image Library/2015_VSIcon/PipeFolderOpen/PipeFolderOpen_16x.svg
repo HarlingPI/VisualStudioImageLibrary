@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="16px"
+	 height="16px" viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
+<style type="text/css">
+	.icon-canvas-transparent{opacity:0;fill:#F6F6F6;}
+	.icon-vs-out{fill:#F6F6F6;}
+	.icon-vs-bg{fill:#424242;}
+	.icon-vs-fg{fill:#F0EFF1;}
+	.icon-folder{fill:#DCB67A;}
+</style>
+<g id="canvas">
+	<path class="icon-canvas-transparent" d="M16,16H0V0h16V16z"/>
+</g>
+<g id="outline">
+	<path class="icon-vs-out" d="M16,2.969v9c0,0.617-0.227,1.118-0.57,1.45C14.86,13.963,14,14,14,14h-3.392
+		C10.099,15,9.139,16,8,16H3c-1.682,0-3-1.757-3-4c0-0.901,0.22-1.716,0.583-2.377L0,8.165V7h1V4.969C1,3.67,2.03,3,3,3h2.884l1-2
+		H14C14.995,1,16,1.666,16,2.969z"/>
+</g>
+<g id="iconBg">
+	<path class="icon-folder" d="M15,3c0,2.36,0,8.205,0,9c0,1-1,1-1,1V3H8L7,5H3v3C2.355,8,1.766,8.262,1.282,8.706L1,8h1
+		c0,0,0-2,0-3s1.236-1,1-1h3.5l1-2H14C14,2,15,2,15,3z M8,8c1.683,0,3,1.757,3,4c0,0.349-0.042,0.68-0.102,1H14l-3-5H8z"/>
+	<path class="icon-vs-bg" d="M1,12c0,1.657,0.896,3,2,3h1h4c1.104,0,2-1.343,2-3c0-1.657-0.896-3-2-3H4H3
+		C1.896,9,1,10.343,1,12z M4.5,12c0,1.502-0.792,2.625-1.5,2.625S1.5,13.502,1.5,12S2.292,9.375,3,9.375S4.5,10.498,4.5,12z"/>
+</g>
+<g id="iconFg">
+	<path class="icon-vs-fg" d="M11,8H3V5h4l1-2h6v10L11,8z M4.5,12c0,1.502-0.792,2.625-1.5,2.625S1.5,13.502,1.5,12
+		S2.292,9.375,3,9.375S4.5,10.498,4.5,12z"/>
+</g>
+</svg>
