@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="16px"
+	 height="16px" viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
+<style type="text/css">
+	.icon-canvas-transparent{opacity:0;fill:#F6F6F6;}
+	.icon-vs-out{fill:#F6F6F6;}
+	.icon-vs-action-green{fill:#388A34;}
+</style>
+<g id="canvas">
+	<path class="icon-canvas-transparent" d="M16,16H0V0h16V16z"/>
+</g>
+<g id="outline">
+	<path class="icon-vs-out" d="M13,4v3h-1v4h-2v5H6v-5H4V7H3V4h1V1l0,0c0.353-0.527,1.294-1,2-1s1.647,0.473,2,1V3.98
+		l0,0V1c0.353-0.527,1.293-1,2-1c0.705,0,1.648,0.473,2,1v3H13z"/>
+</g>
+<g id="colorAction">
+	<path class="icon-vs-action-green" d="M7,4H5V2c0-0.484,0.457-1,1-1c0.544,0,1,0.516,1,1V4z M11,2
+		c0-0.484-0.456-1-1-1C9.457,1,9,1.516,9,2v2h2V2z M4,5v1h1v4h2v5h2v-5h2V6h1V5H4z"/>
+</g>
+</svg>
